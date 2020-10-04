@@ -1,6 +1,6 @@
 {
   "name": "snowpack-plugin-import-replacer",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Minified build / CDN for production, NPM for development. It's that simple.",
   "main": "index.js",
   "scripts": {
