@@ -1,0 +1,22 @@
+{
+  "name": "snowpack-plugin-import-replacer",
+  "version": "0.1.0",
+  "description": "Minified build / CDN for production, NPM for development. It's that simple.",
+  "main": "index.js",
+  "scripts": {
+    "release": "",
+    "start": "yarn link && cd test && yarn start && cd .. && yarn unlink",
+    "test": "yarn link && cd test && yarn test && cd .. && yarn unlink"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HexaField/snowpack-plugin-import-replacer.git"
+  },
+  "keywords": [],
+  "author": "HexaField",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HexaField/snowpack-plugin-import-replacer/issues"
+  },
+  "homepage": "https://github.com/HexaField/snowpack-plugin-import-replacer#readme"
+}
